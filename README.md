@@ -3,7 +3,8 @@
 |home|
 
 
-# The Second project
+# The Third project
 
-## The sensor I used is --- android.hardware.sensor.accelerometer
-I just search the information I got from the information of accelerometer from the [ web ](https://developer.android.com/guide/topics/sensors/sensors_motion) which is offered by professor.
+## For the first app is like the tutorial to let user write down what they want to write down.
+
+## For the second one, users do not only write down the message, but also change the title and receive the message.
